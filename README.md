@@ -6,7 +6,7 @@
 <img align= "left">(![GirlGoOn](https://user-images.githubusercontent.com/82871294/179750340-4ef31e71-335c-4719-af70-88211d99fdd8.gif))</img>
 - 🌱 I’m currently learning **Microsoft Azure and DevOps Tools**
 
-- 🌱 I’m currently a **Cloud Computing Intern @Smartknower**
+- 👨‍💻 I’m currently a **Cloud Computing Intern @Smartknower**
 
 - 📝 I write articles on [Data Structures and Azure](Data Structures and Azure)
 
