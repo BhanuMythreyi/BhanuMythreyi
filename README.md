@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm внαηυ мутняєуι</h1>
 <h3 align="center">A Pre-Final Year CS Undergraduate</h3>
 
-<img align= "left">(![GirlGoOn](https://user-images.githubusercontent.com/82871294/179750340-4ef31e71-335c-4719-af70-88211d99fdd8.gif))</img>
+<img align= "left">(![CompGirl1](https://user-images.githubusercontent.com/82871294/180243765-dd87071a-6d50-45f4-90b4-9de2a96b131d.gif))</img>
 - 🌱 I’m currently learning **Microsoft Azure and DevOps Tools**
 
 - 👨‍💻 I’m currently a **Cloud Computing Intern @Smartknower**
