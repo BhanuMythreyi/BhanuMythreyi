@@ -4,13 +4,6 @@
 <h3 align="center">A Pre-Final Year CS Undergraduate</h3>
 
 <img align= "left">(![CompGirl1](https://user-images.githubusercontent.com/82871294/180243765-dd87071a-6d50-45f4-90b4-9de2a96b131d.gif))</img>
-- 🌱 I’m currently learning **Microsoft Azure and DevOps Tools**
-
-- 👨‍💻 I’m currently a **Cloud Computing Intern @Smartknower**
-
-- 📝 I write articles on [Data Structures and Azure](Data Structures and Azure)
-
-- 💬 Ask me about **Cloud Computing and AIML!**
 
 - 📫 How to reach me **www.linkedin.com/in/bhanumythreyiayaluri**
 
