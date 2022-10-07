@@ -6,6 +6,8 @@
 <img align= "left">(![CompGirl1](https://user-images.githubusercontent.com/82871294/180243765-dd87071a-6d50-45f4-90b4-9de2a96b131d.gif))</img>
 
 - 📫 How to reach me **www.linkedin.com/in/bhanumythreyiayaluri**
+- ☁️ Ex-Cloud Computing Intern @SmartKnower -- Worked with Azure
+- 👩‍💻 Open Source Mentee @Codess.Cafe
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
